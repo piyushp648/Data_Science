@@ -1,0 +1,1646 @@
+[
+    {
+        "url": "https://www.geeksforgeeks.org/tag/amazon/",
+        "name": "Amazon"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/microsoft/",
+        "name": "Microsoft"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/adobe/",
+        "name": "Adobe"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/oracle/",
+        "name": "Oracle"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/flipkart/",
+        "name": "Flipkart"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/makemytrip/",
+        "name": "MakeMyTrip"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/accolite/",
+        "name": "Accolite"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/goldman-sachs/",
+        "name": "Goldman Sachs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/paytm/",
+        "name": "Paytm"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/samsung/",
+        "name": "Samsung"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/google/",
+        "name": "Google"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/snapdeal/",
+        "name": "SnapDeal"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/morgan-stanley/",
+        "name": "Morgan Stanley"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zoho/",
+        "name": "Zoho"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/d-e-shaw/",
+        "name": "D-E-Shaw"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sap-labs/",
+        "name": "SAP Labs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/maq-software/",
+        "name": "MAQ Software"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ola-cabs/",
+        "name": "OLA Cabs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/directi/",
+        "name": "Directi"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/vmware/",
+        "name": "VMWare"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/walmart/",
+        "name": "Walmart"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tcs/",
+        "name": "TCS"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/qualcomm/",
+        "name": "Qualcomm"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cisco/",
+        "name": "Cisco"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/facebook/",
+        "name": "Facebook"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/oyo-rooms/",
+        "name": "Oyo Rooms"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/payu/",
+        "name": "Payu"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/hike/",
+        "name": "Hike"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/yahoo/",
+        "name": "Yahoo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/visa/",
+        "name": "Visa"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/factset/",
+        "name": "Factset"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/wipro/",
+        "name": "Wipro"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/intuit/",
+        "name": "Intuit"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/expedia/",
+        "name": "Expedia"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/synopsys/",
+        "name": "Synopsys"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ge/",
+        "name": "GE"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/yatra-com/",
+        "name": "Yatra.com"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/recruitment-process/",
+        "name": "Recruitment Process"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/bankbazaar/",
+        "name": "Bankbazaar"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/myntra/",
+        "name": "Myntra"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/drishti-soft/",
+        "name": "Drishti-Soft"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/dell/",
+        "name": "Dell"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/grofers/",
+        "name": "Grofers"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/belzabar/",
+        "name": "Belzabar"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/linkedin/",
+        "name": "Linkedin"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/browserstack/",
+        "name": "BrowserStack"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nagarro/",
+        "name": "Nagarro"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sapient/",
+        "name": "Sapient"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/twitter/",
+        "name": "Twitter"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/arcesium/",
+        "name": "Arcesium"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/teradata/",
+        "name": "Teradata"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/coupondunia/",
+        "name": "CouponDunia"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/moonfrog-labs/",
+        "name": "Moonfrog Labs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/juniper-networks/",
+        "name": "Juniper Networks"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/247-innovation-labs/",
+        "name": "24*7 Innovation Labs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/quikr/",
+        "name": "Quikr"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/amdocs/",
+        "name": "Amdocs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/inmobi/",
+        "name": "Inmobi"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/paypal/",
+        "name": "paypal"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/infosys/",
+        "name": "Infosys"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/philips/",
+        "name": "Philips"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/codenation/",
+        "name": "Codenation"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/abco/",
+        "name": "abco"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nvidia/",
+        "name": "Nvidia"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/bloomberg/",
+        "name": "Bloomberg"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/housing-com/",
+        "name": "Housing.com"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/hsbc/",
+        "name": "HSBC"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/opera/",
+        "name": "Opera"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/veritas/",
+        "name": "Veritas"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/salesforce/",
+        "name": "Salesforce"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/informatica/",
+        "name": "Informatica"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/oxigen-wallet/",
+        "name": "Oxigen Wallet"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/united-health-group/",
+        "name": "United Health Group"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/hp/",
+        "name": "HP"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/brocade/",
+        "name": "Brocade"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/infoedge/",
+        "name": "InfoEdge"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cadence-india/",
+        "name": "Cadence India"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zycus/",
+        "name": "Zycus"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/citrix/",
+        "name": "Citrix"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/kuliza/",
+        "name": "Kuliza"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/groupon/",
+        "name": "Groupon"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/deloitte/",
+        "name": "Deloitte"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/deutsche-bank/",
+        "name": "Deutsche Bank"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/arista-network/",
+        "name": "Arista Network"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/times-internet/",
+        "name": "Times Internet"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/arista-networks/",
+        "name": "Arista Networks"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mahindra-comviva/",
+        "name": "Mahindra Comviva"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/boomerang-commerce/",
+        "name": "Boomerang Commerce"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/target-corporation/",
+        "name": "Target Corporation"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sandisk-corporation/",
+        "name": "Sandisk-Corporation"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ibm/",
+        "name": "IBM"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/xome/",
+        "name": "Xome"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/intel/",
+        "name": "Intel"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/carwale/",
+        "name": "Carwale"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/citicorp/",
+        "name": "Citicorp"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zillious/",
+        "name": "Zillious"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/jp-morgan/",
+        "name": "JP Morgan"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/toptalent/",
+        "name": "Toptalent"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/thoughtworks/",
+        "name": "Thoughtworks"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/kritikal-solutions/",
+        "name": "Kritikal Solutions"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/national-instruments/",
+        "name": "National Instruments"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ebay/",
+        "name": "eBay"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tesco/",
+        "name": "Tesco"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/swiggy/",
+        "name": "Swiggy"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tolexo/",
+        "name": "Tolexo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/aricent/",
+        "name": "Aricent"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/fab-com/",
+        "name": "Fab.com"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nutanix/",
+        "name": "Nutanix"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sprinklr/",
+        "name": "Sprinklr"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/symantec/",
+        "name": "Symantec"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/accenture/",
+        "name": "Accenture"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cognizant/",
+        "name": "Cognizant"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/fiberlink/",
+        "name": "Fiberlink"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/rockstand/",
+        "name": "Rockstand"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/smartprix/",
+        "name": "Smartprix"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/service-now/",
+        "name": "Service Now"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/oats-systems/",
+        "name": "OATS Systems"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/robert-bosch/",
+        "name": "Robert Bosch"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mentor-graphics/",
+        "name": "Mentor Graphics"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/rbs/",
+        "name": "RBS"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/fico/",
+        "name": "FICO"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mphrx/",
+        "name": "MpHrx"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/huawei/",
+        "name": "Huawei"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/kronos/",
+        "name": "Kronos"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/practo/",
+        "name": "Practo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/treebo/",
+        "name": "Treebo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zopper-com/",
+        "name": "Zopper"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/bidgely/",
+        "name": "Bidgely"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/medlife/",
+        "name": "Medlife"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nearbuy/",
+        "name": "nearbuy"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/barclays/",
+        "name": "Barclays"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/dailyhunt/",
+        "name": "Dailyhunt"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/delhivery/",
+        "name": "Delhivery"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/honeywell/",
+        "name": "Honeywell"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/taxi4sure/",
+        "name": "Taxi4Sure"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/komli-media/",
+        "name": "Komli Media"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nice-systems/",
+        "name": "NICE Systems"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/exl-analytics/",
+        "name": "Exl-Analytics"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tejas-network/",
+        "name": "Tejas Network"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/vizury-interactive-solutions/",
+        "name": "Vizury Interactive Solutions"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/adp/",
+        "name": "ADP"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/hcl/",
+        "name": "HCL"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cdot/",
+        "name": "CDOT"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/akosha/",
+        "name": "Akosha"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/axtria/",
+        "name": "Axtria"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zomato/",
+        "name": "zomato"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/amadeus/",
+        "name": "Amadeus"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/de-shaw/",
+        "name": "DE Shaw"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/gs-labs/",
+        "name": "GS Labs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/inautix/",
+        "name": "Inautix"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/xoriant/",
+        "name": "Xoriant"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/infinera/",
+        "name": "Infinera"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/capgemini/",
+        "name": "Capgemini"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/commvault/",
+        "name": "CommVault"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/media-net/",
+        "name": "media.net"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/freecharge/",
+        "name": "FreeCharge"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/greyorange/",
+        "name": "GreyOrange"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/kla-tencor/",
+        "name": "KLA Tencor"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/knowlarity/",
+        "name": "Knowlarity"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/prop-tigar/",
+        "name": "Prop Tigar"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/epic-systems/",
+        "name": "Epic Systems"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/eze-software/",
+        "name": "Eze-Software"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sapientnitro/",
+        "name": "SapientNitro"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/junglee-games/",
+        "name": "Junglee Games"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/alcatel-lucent/",
+        "name": "Alcatel Lucent"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cavisson-system/",
+        "name": "Cavisson System"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/american-express/",
+        "name": "American Express"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mindfire-solutions/",
+        "name": "Mindfire Solutions"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/monotype-solutions/",
+        "name": "Monotype Solutions"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/persistent-systems/",
+        "name": "Persistent Systems"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/hitachi-consultancy/",
+        "name": "Hitachi Consultancy"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/fidelity-investments/",
+        "name": "Fidelity Investments"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/streamoid-technologies/",
+        "name": "Streamoid Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/works-applications-japan/",
+        "name": "Works Applications Japan"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/1mg/",
+        "name": "1mg"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cgi/",
+        "name": "CGI"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/pwc/",
+        "name": "Pwc"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ubs/",
+        "name": "UBS"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/bpcl/",
+        "name": "BPCL"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/3dplm/",
+        "name": "3dPLM"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/shell/",
+        "name": "Shell"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/akamai/",
+        "name": "Akamai"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/jabong/",
+        "name": "Jabong"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/newgen/",
+        "name": "Newgen"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/rivigo/",
+        "name": "Rivigo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tracxn/",
+        "name": "Tracxn"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/redbus/",
+        "name": "redBus"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/edifecs/",
+        "name": "Edifecs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/goibibo/",
+        "name": "Goibibo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ibm-isl/",
+        "name": "IBM-ISL"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/metlife/",
+        "name": "MetLife"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/polycom/",
+        "name": "Polycom"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/siemens/",
+        "name": "Siemens"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sigmoid/",
+        "name": "Sigmoid"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/telstra/",
+        "name": "Telstra"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tinyowl/",
+        "name": "TinyOwl"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/wingify/",
+        "name": "Wingify"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zoomcar/",
+        "name": "Zoomcar"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/numerify/",
+        "name": "Numerify"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/pubmatic/",
+        "name": "Pubmatic"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/reliance/",
+        "name": "Reliance"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/chargebee/",
+        "name": "ChargeBee"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/endurance/",
+        "name": "Endurance"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/shopclues/",
+        "name": "Shopclues"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sumologic/",
+        "name": "Sumologic"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zopper-com/",
+        "name": "Zopper.com"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/gwynnie-bee/",
+        "name": "Gwynnie Bee"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ignite-world/",
+        "name": "IgniteWorld"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/chalk-studio/",
+        "name": "Chalk Studio"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/itc-infotech/",
+        "name": "ITC-Infotech"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ignite-world/",
+        "name": "Ignite World"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/reve-systems/",
+        "name": "REVE Systems"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sopra-steria/",
+        "name": "Sopra Steria"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/athena-health/",
+        "name": "Athena-Health"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ittiam-systems/",
+        "name": "Ittiam Systems"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/open-solutions/",
+        "name": "Open Solutions"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tower-research/",
+        "name": "Tower Research"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/opera-solutions/",
+        "name": "Opera Solutions"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/travel-triangle/",
+        "name": "Travel Triangle"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/yodlee-infotech/",
+        "name": "Yodlee Infotech"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/global-analytics/",
+        "name": "Global Analytics"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/rockwell-collins/",
+        "name": "Rockwell Collins"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/societe-generale/",
+        "name": "Societe Generale"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/compro-technologies/",
+        "name": "Compro Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/paxcel-technologies/",
+        "name": "Paxcel Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/indus-valley-partners/",
+        "name": "Indus Valley Partners"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ea/",
+        "name": "EA"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ni/",
+        "name": "NI"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/csc/",
+        "name": "CSC"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/dbs/",
+        "name": "DBS"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/rss/",
+        "name": "RSS"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sbi/",
+        "name": "SBI"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sep/",
+        "name": "SEP"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/uhg/",
+        "name": "UHG"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/barc/",
+        "name": "BARC"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cray/",
+        "name": "Cray"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/gsoc/",
+        "name": "GSoC"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/olam/",
+        "name": "Olam"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tivo/",
+        "name": "TiVo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/uber/",
+        "name": "Uber"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/aveva/",
+        "name": "AVEVA"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/avaya/",
+        "name": "Avaya"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/chegg/",
+        "name": "Chegg"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/droom/",
+        "name": "Droom"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/druva/",
+        "name": "Druva"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/finiq/",
+        "name": "FinIQ"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ibibo/",
+        "name": "Ibibo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/intui/",
+        "name": "Intui"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mynta/",
+        "name": "Mynta"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nokia/",
+        "name": "Nokia"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sabre/",
+        "name": "Sabre"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/subex/",
+        "name": "Subex"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tismo/",
+        "name": "Tismo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/uurmi/",
+        "name": "Uurmi"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zynga/",
+        "name": "Zynga"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cvent/",
+        "name": "cvent"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ixigo/",
+        "name": "ixigo"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cerner/",
+        "name": "Cerner"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/coviam/",
+        "name": "Coviam"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/gslabs/",
+        "name": "GSLabs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/gemini/",
+        "name": "Gemini"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/libsys/",
+        "name": "LIBSYS"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/lowes/",
+        "name": "Lowe's"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mcafee/",
+        "name": "McAfee"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nielit/",
+        "name": "NIELIT"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nomura/",
+        "name": "Nomura"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/qubole/",
+        "name": "Qubole"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/quickr/",
+        "name": "Quickr"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sophos/",
+        "name": "Sophos"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/soroco/",
+        "name": "Soroco"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/talend/",
+        "name": "Talend"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tomtom/",
+        "name": "TomTom"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/unisys/",
+        "name": "Unisys"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/wissen/",
+        "name": "Wissen"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/wooqer/",
+        "name": "Wooqer"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zoomrx/",
+        "name": "ZoomRx"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/aphonso/",
+        "name": "Aphonso"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/calsoft/",
+        "name": "Calsoft"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cigital/",
+        "name": "Cigital"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cuemath/",
+        "name": "Cuemath"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/enquero/",
+        "name": "Enquero"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/genpact/",
+        "name": "Genpact"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ibm-irl/",
+        "name": "IBM-IRL"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/promact/",
+        "name": "Promact"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/red-hat/",
+        "name": "Red Hat"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sandisk/",
+        "name": "Sandisk"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sonetel/",
+        "name": "Sonetel"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/unknown/",
+        "name": "Unknown"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/volante/",
+        "name": "Volante"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/enstage/",
+        "name": "enStage"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/maas360/",
+        "name": "maas360"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mobicip/",
+        "name": "mobicip"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/axio-net/",
+        "name": "AXIO-NET"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/argil-dx/",
+        "name": "Argil DX"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/gramener/",
+        "name": "Gramener"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/hashedin/",
+        "name": "Hashedin"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/homebell/",
+        "name": "HomeBell"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/infozech/",
+        "name": "Infozech"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/innoviti/",
+        "name": "Innoviti"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/lenskart/",
+        "name": "Lenskart"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mindfire/",
+        "name": "Mindfire"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mobikwik/",
+        "name": "MobiKwik"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ntt-data/",
+        "name": "NTT-DATA"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/netskope/",
+        "name": "Netskope"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/oku-tech/",
+        "name": "Oku Tech"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/progress/",
+        "name": "Progress"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/razorpay/",
+        "name": "RazorPay"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/riverbed/",
+        "name": "Riverbed"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sigtuple/",
+        "name": "Sigtuple"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/smartpix/",
+        "name": "Smartpix"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/toptalen/",
+        "name": "TopTalen"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/transbit/",
+        "name": "TransBit"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/verifone/",
+        "name": "Verifone"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/wow-labz/",
+        "name": "WOW Labz"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/infybeam/",
+        "name": "infybeam"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/blackrock/",
+        "name": "BlackRock"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cleartrip/",
+        "name": "ClearTrip"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/clicklabs/",
+        "name": "ClickLabs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/hitwicket/",
+        "name": "Hitwicket"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/leanovate/",
+        "name": "Leanovate"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/on-campus/",
+        "name": "On-Campus"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/power2sme/",
+        "name": "Power2SME"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/quantiphi/",
+        "name": "Quantiphi"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/scalegrid/",
+        "name": "ScaleGrid"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/stayzilla/",
+        "name": "Stayzilla"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/thorogood/",
+        "name": "Thorogood"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/urbanclap/",
+        "name": "UrbanClap"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/bridgei2i/",
+        "name": "bridgei2i"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/bloomreach/",
+        "name": "Bloomreach"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/bluestacks/",
+        "name": "BlueStacks"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/chai-point/",
+        "name": "Chai Point"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/great-west/",
+        "name": "Great West"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/gwynniebee/",
+        "name": "GwynnieBee"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/headstrong/",
+        "name": "Headstrong"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/latentview/",
+        "name": "Latentview"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/microfocus/",
+        "name": "Microfocus"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/pstakecare/",
+        "name": "PSTakeCare"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/paypal-idc/",
+        "name": "PayPal IDC"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/whishworks/",
+        "name": "WHISHWORKS"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/birst-india/",
+        "name": "Birst India"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/capital-one/",
+        "name": "Capital One"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/citius-tech/",
+        "name": "Citius Tech"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/commonfloor/",
+        "name": "Commonfloor"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/customerxps/",
+        "name": "CustomerXPs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ford-motors/",
+        "name": "Ford Motors"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/globallogic/",
+        "name": "GlobalLogic"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/lendingkart/",
+        "name": "LendingKart"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sling-media/",
+        "name": "Sling Media"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/msupply-com/",
+        "name": "mSupply.com"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/iit-delhi-ms/",
+        "name": "IIT Delhi MS"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/magic-bricks/",
+        "name": "Magic Bricks"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/schlumberger/",
+        "name": "Schlumberger"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/thinktankers/",
+        "name": "ThinkTankers"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/wizecommerce/",
+        "name": "Wizecommerce"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/apt-portfolio/",
+        "name": "APT Portfolio"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ashok-leyland/",
+        "name": "Ashok Leyland"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/cloud-lending/",
+        "name": "Cloud Lending"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/dolat-capital/",
+        "name": "Dolat Capital"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/general-mills/",
+        "name": "General Mills"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/leftrightmind/",
+        "name": "LeftRightMind"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/maruti-suzuki/",
+        "name": "Maruti Suzuki"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/matrix-comsec/",
+        "name": "Matrix Comsec"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/shreepartners/",
+        "name": "Shreepartners"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/u2opia-mobile/",
+        "name": "U2opia Mobile"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/visible-alpha/",
+        "name": "Visible Alpha"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zs-associates/",
+        "name": "ZS Associates"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/aspiring-minds/",
+        "name": "Aspiring Minds"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/global-shiksha/",
+        "name": "Global Shiksha"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/interra-system/",
+        "name": "Interra System"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/next-education/",
+        "name": "Next Education"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/sonus-networks/",
+        "name": "Sonus Networks"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/travel-d-globe/",
+        "name": "Travel d globe"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/virtusapolaris/",
+        "name": "VirtusaPolaris"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/eclinicalworks/",
+        "name": "eClinicalWorks"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/british-telecom/",
+        "name": "British Telecom"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/redpine-signals/",
+        "name": "Redpine Signals"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tricon-infotech/",
+        "name": "Tricon Infotech"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/azuga-telemetics/",
+        "name": "Azuga Telemetics"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/envestnet-yodlee/",
+        "name": "Envestnet Yodlee"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/scientific-games/",
+        "name": "Scientific Games"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/aristocrat-gaming/",
+        "name": "Aristocrat Gaming"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/kpit-technologies/",
+        "name": "KPIT Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/motorola-mobility/",
+        "name": "Motorola Mobility"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/surya-informatics/",
+        "name": "Surya Informatics"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/barracuda-networks/",
+        "name": "Barracuda Networks"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/google-summer-code/",
+        "name": "Google Summer Code"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/magnitude-software/",
+        "name": "Magnitude Software"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/raja-software-labs/",
+        "name": "Raja Software Labs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/spire-technologies/",
+        "name": "Spire Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/swaniti-initiative/",
+        "name": "Swaniti Initiative"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tower-research-llc/",
+        "name": "Tower Research LLC"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/zebra-technologies/",
+        "name": "Zebra Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/mallow-technologies/",
+        "name": "Mallow Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/meeami-technologies/",
+        "name": "Meeami Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/st-microelectronics/",
+        "name": "ST Microelectronics"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tata-communications/",
+        "name": "Tata Communications"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/ecare-technology-labs/",
+        "name": "Ecare Technology Labs"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/hexaware-technologies/",
+        "name": "Hexaware Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/infoview-technologies/",
+        "name": "Infoview Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/palantir-technologies/",
+        "name": "Palantir Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/intellect-design-arena/",
+        "name": "Intellect Design Arena"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/one-convergence-device/",
+        "name": "One Convergence Device"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/tower-research-capital/",
+        "name": "Tower Research Capital"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/aristocrat-technologies/",
+        "name": "Aristocrat Technologies"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/evive-software-analytics/",
+        "name": "Evive Software Analytics"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/optimus-information-inc/",
+        "name": "Optimus Information Inc."
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/orange-business-services/",
+        "name": "Orange Business Services"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/financial-software-systems/",
+        "name": "Financial Software Systems"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/nirvana-financial-solutions/",
+        "name": "Nirvana Financial Solutions"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/societe-generale-global-solution/",
+        "name": "Societe Generale Global Solution"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/tag/clairvolex-knowledge-processes-pvt-ltd/",
+        "name": "Clairvolex Knowledge Processes Pvt. Ltd"
+    }
+]
