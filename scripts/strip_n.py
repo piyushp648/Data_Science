@@ -4,7 +4,7 @@ from tqdm import tqdm
 INPUT_FILE = 'output/companies_with_exp_text.json'
 OUTPUT_FILE = 'output/text_stripped.json'
 
-with open(INPUT_FILE) as f:
+with open(INPUT_FILE, encoding="utf-8") as f:
     data = json.load(f)
 
 for company in tqdm(data, desc='Total'):
