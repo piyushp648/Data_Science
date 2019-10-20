@@ -43,7 +43,7 @@
 "dbms", "optimization of relational algebra"
 "dbms", "transaction"
 "dbms", "concurrency"
-"dbms", "transaction properties" 
+"dbms", "transaction properties"
 "dbms", "transaction states"
 "dbms", "schedules"
 "dbms", "serializability"
