@@ -89,10 +89,6 @@ for company in tqdm(company_data, desc="Total"):
         # get data for the experience
         try:
             logger.info('Getting request for URL: {0}'.format(exp_url))
-            # exp_html_data = requests_retry_session(retries=10).get(
-            #     exp_url,
-            #     timeout=5
-            #     )
             exp_html_data = get(exp_url)
         except Exception as x:
             fprint('failed  to get URL {1} :( {0}'.format(
@@ -135,11 +131,6 @@ for company in tqdm(company_data, desc="Total"):
 with open(OUTPUT_FILE, "w") as writeJSON:
     json.dump(company_data, writeJSON, ensure_ascii=False, indent=4)
 
-# logger.info('Finished! Got data from %s pages.', str(total_pgs))  # noqa:E501
-# logger.info('Data written to file %s! \n', OUTPUT_FILE)
-
-# sys.stdout.write('\n\nFinished! Got data from {0} pages.\n'.format(str(total_pgs)))  # noqa:E501
-# sys.stdout.writetqdm.write('Data written to file {0}! \n\n'.format(OUTPUT_FILE))  # noqa:E501
 fprint('\n\nFinished! Got data from {0} pages.\n'.format(
     str(total_pgs)))
 fprint('Data written to file {0}! \n\n'.format(OUTPUT_FILE))

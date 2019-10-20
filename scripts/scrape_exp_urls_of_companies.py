@@ -30,8 +30,6 @@ logger.setLevel(logging.DEBUG)
 with open(INPUT_FILE) as file_companies:
     data = json.load(file_companies)
 
-# for entry in data:
-#     print('URL = {0}, Name = {1}'.format(entry['url'], entry['name']))
 
 nextPage = True
 pgno = 0

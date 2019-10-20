@@ -15,7 +15,6 @@ with io.open(INPUT_FILE, encoding="utf-8") as f:
 for company in tqdm(data, desc='Total'):
     for exp in tqdm(company['experiences'], desc=company['name']):
         exp['text'] = exp['text'].replace("\n", " ")
-        # exp['text'] = exp['text'].replace(u'\xa0', u' ')
         re.sub(r'[^\x00-\x7F]+',' ', exp['text'])
         exp['text'] = deEmojify(exp['text'])
 
