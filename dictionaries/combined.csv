@@ -1,223 +1,223 @@
-"subject", "term"
-"dbms", "database"
-"dbms", "database system"
-"dbms", "er model"
-"dbms", "entity relationship"
-"dbms", "information system"
-"dbms", "data"
-"dbms", "DBMS"
-"dbms", "database management"
-"dbms", "schema"
-"dbms", "attributes"
-"dbms", "entity relationship"
-"dbms", "cardinality"
-"dbms", "relational data"
-"dbms", "tuples"
-"dbms", "relations"
-"dbms", "keys"
-"dbms", "primary key"
-"dbms", "candidate key"
-"dbms", "foreign key"
-"dbms", "super key"
-"dbms", "relational algebra"
-"dbms", "select"
-"dbms", "project"
-"dbms", "join"
-"dbms", "relational calculus"
-"dbms", "tuple calculus"
-"dbms", "query language"
-"dbms", "SQL"
-"dbms", "queries"
-"dbms", "nested queries"
-"dbms", "PL/SQL"
-"dbms", "normalization"
-"dbms", "relation schemas"
-"dbms", "functional dependencies"
-"dbms", "normal form"
-"dbms", "1NF"
-"dbms", "2NF"
-"dbms", "3NF"
-"dbms", "BCNF"
-"dbms", "loss less join"
-"dbms", "query processing"
-"dbms", "optimization of relational algebra"
-"dbms", "transaction"
-"dbms", "concurrency"
-"dbms", "transaction properties"
-"dbms", "transaction states"
-"dbms", "schedules"
-"dbms", "serializability"
-"dbms", "conflict serializability"
-"dbms", "view serializability"
-"dbms", "types of serializability"
-"dbms", "serializability concurrency"
-"dbms", "lock"
-"dbms", "timestamp ordering protocol"
-"dbms", "two-phase locking"
-"dbms", "2PL"
-"dbms", "strict Two-Phase Locking"
-"dbms", "deadlock"
-"dbms", "wait-die"
-"dbms", "wound-wait"
-"dbms", "shadow paging"
-"dbms", "secondary storage devices"
-"dbms", "RAID"
-"dbms", "heap file"
-"dbms", "hashing techniques"
-"dbms", "Indexing techniques"
-"dbms", "primary indexing"
-"dbms", "secondary indexing"
-"dbms", "Bitmap Indices"
-"dbms", "contemporary DBMS"
-"dsa", "abstract data type"
-"dsa", "array"
-"dsa", "arrays"
-"dsa", "linked list"
-"dsa", "memory representation"
-"dsa", "stacks"
-"dsa", "stack"
-"dsa", "infix"
-"dsa", "postfix"
-"dsa", "queue"
-"dsa", "queues"
-"dsa", "enqueue"
-"dsa", "dequeue"
-"dsa", "dqueue"
-"dsa", "tree"
-"dsa", "avl tree"
-"dsa", "binary tree"
-"dsa", "binary search tree"
-"dsa", "trie"
-"dsa", "heap"
-"dsa", "forest"
-"dsa", "graph"
-"dsa", "graphs"
-"dsa", "depth first search"
-"dsa", "breadth first search"
-"dsa", "minimum spanning tree"
-"dsa", "kruskal"
-"dsa", "prim"
-"dsa", "dijkstra"
-"dsa", "sorting"
-"dsa", "bubble sort"
-"dsa", "quick sort"
-"dsa", "merge sort"
-"dsa", "radix sort"
-"dsa", "shell sort"
-"dsa", "insertion sort"
-"dsa", "binary search"
-"dsa", "sequential search"
-"dsa", "hash"
-"dsa", "hashing"
-"dsa", "indexing"
-"dsa", "code tuning"
-"dsa", "code tuning techniques"
-"dsa", "loop optimization"
-"dsa", "complexity"
-"dsa", "time complexity"
-"dsa", "space complexity"
-"dsa", "time space tradeoff"
-"dsa", "asymptotic notation"
-"dsa", "amortized analysis"
-"dsa", "brute force"
-"dsa", "brute-force"
-"dsa", "greedy"
-"dsa", "dynamic programming"
-"dsa", "divide and conquer"
-"dsa", "linear programming"
-"dsa", "np hard"
-"dsa", "np-hard"
-"dsa", "np-complete"
-"languages", "python"
-"languages", "c"
-"languages", "c++"
-"languages", "java"
-"languages", "javascript"
-"networks", "terms"
-"networks", "computer networks"
-"networks", "osi"
-"networks", "peer to peer"
-"networks", "p2p"
-"networks", "networks"
-"networks", "physical layer"
-"networks", "shennons"
-"networks", "nyquist"
-"networks", "guided media"
-"networks", "unguided media"
-"networks", "circuit switching"
-"networks", "media switching"
-"networks", "data link layer"
-"networks", "hamming code"
-"networks", "sliding window"
-"networks", "aloha"
-"networks", "csma"
-"networks", "router"
-"networks", "routing"
-"networks", "distance vector routing"
-"networks", "classful ip addressing"
-"networks", "ip address"
-"networks", "ip addressing"
-"networks", "subnet"
-"networks", "supernet"
-"os", "terms"
-"os", "operating system"
-"os", "function of operating system"
-"os", "Evolution of operating system"
-"os", "types of operating system"
-"os", "desirable characteristics of os"
-"os", "features of os"
-"os", "operating systems service"
-"os", "utility program"
-"os", "system call"
-"os", "fork"
-"os", "exec"
-"os", "file systems"
-"os", "file concept"
-"os", "disk organization"
-"os", "tape organization"
-"os", "different modules of a file system"
-"os", "disk space allocation"
-"os", "contiguous space allocation"
-"os", "linked space allocation"
-"os", "indexed space allocation"
-"os", "directory structures"
-"os", "file protection"
-"os", "system calls file management"
-"os", "disk scheduling"
-"os", "CPU scheduling"
-"os", "process"
-"os", "scheduling"
-"os", "scheduler"
-"os", "process state diagram"
-"os", "scheduling algorithms"
-"os", "system calls"
-"os", "process management"
-"os", "multiple processor scheduling"
-"os", "threads"
-"os", "input process"
-"os", "output process"
-"os", "asynchronous operation"
-"os", "speed gap format conversion"
-"os", "i/o interface"
-"os", "program controlled i/o"
-"os", "interrupt driven i/o"
-"os", "concurrent i/o"
-"os", "concurrent processes"
-"os", "real concurrency"
-"os", "virtual concurrency"
-"os", "mutual exclusion"
-"os", "synchronization"
-"os", "inter process communication"
-"os", "ipc"
-"os", "critical section"
-"os", "semaphore"
-"os", "wait"
-"os", "signal"
-"os", "deadlock"
-"os", "deadlock problem"
-"os", "deadlock prevention"
-"os", "deadlock avoidance"
-"os", "deadlock recovery"
-"os", "unix"
-"os", "linux"
-"os", "windows"
+subject, term
+dbms, database
+dbms, database system
+dbms, er model
+dbms, entity relationship
+dbms, information system
+dbms, data
+dbms, DBMS
+dbms, database management
+dbms, schema
+dbms, attributes
+dbms, entity relationship
+dbms, cardinality
+dbms, relational data
+dbms, tuples
+dbms, relations
+dbms, keys
+dbms, primary key
+dbms, candidate key
+dbms, foreign key
+dbms, super key
+dbms, relational algebra
+dbms, select
+dbms, project
+dbms, join
+dbms, relational calculus
+dbms, tuple calculus
+dbms, query language
+dbms, SQL
+dbms, queries
+dbms, nested queries
+dbms, PL/SQL
+dbms, normalization
+dbms, relation schemas
+dbms, functional dependencies
+dbms, normal form
+dbms, 1NF
+dbms, 2NF
+dbms, 3NF
+dbms, BCNF
+dbms, loss less join
+dbms, query processing
+dbms, optimization of relational algebra
+dbms, transaction
+dbms, concurrency
+dbms, transaction properties
+dbms, transaction states
+dbms, schedules
+dbms, serializability
+dbms, conflict serializability
+dbms, view serializability
+dbms, types of serializability
+dbms, serializability concurrency
+dbms, lock
+dbms, timestamp ordering protocol
+dbms, two-phase locking
+dbms, 2PL
+dbms, strict Two-Phase Locking
+dbms, deadlock
+dbms, wait-die
+dbms, wound-wait
+dbms, shadow paging
+dbms, secondary storage devices
+dbms, RAID
+dbms, heap file
+dbms, hashing techniques
+dbms, Indexing techniques
+dbms, primary indexing
+dbms, secondary indexing
+dbms, Bitmap Indices
+dbms, contemporary DBMS
+dsa, abstract data type
+dsa, array
+dsa, arrays
+dsa, linked list
+dsa, memory representation
+dsa, stacks
+dsa, stack
+dsa, infix
+dsa, postfix
+dsa, queue
+dsa, queues
+dsa, enqueue
+dsa, dequeue
+dsa, dqueue
+dsa, tree
+dsa, avl tree
+dsa, binary tree
+dsa, binary search tree
+dsa, trie
+dsa, heap
+dsa, forest
+dsa, graph
+dsa, graphs
+dsa, depth first search
+dsa, breadth first search
+dsa, minimum spanning tree
+dsa, kruskal
+dsa, prim
+dsa, dijkstra
+dsa, sorting
+dsa, bubble sort
+dsa, quick sort
+dsa, merge sort
+dsa, radix sort
+dsa, shell sort
+dsa, insertion sort
+dsa, binary search
+dsa, sequential search
+dsa, hash
+dsa, hashing
+dsa, indexing
+dsa, code tuning
+dsa, code tuning techniques
+dsa, loop optimization
+dsa, complexity
+dsa, time complexity
+dsa, space complexity
+dsa, time space tradeoff
+dsa, asymptotic notation
+dsa, amortized analysis
+dsa, brute force
+dsa, brute-force
+dsa, greedy
+dsa, dynamic programming
+dsa, divide and conquer
+dsa, linear programming
+dsa, np hard
+dsa, np-hard
+dsa, np-complete
+languages, python
+languages, c
+languages, c++
+languages, java
+languages, javascript
+networks, terms
+networks, computer networks
+networks, osi
+networks, peer to peer
+networks, p2p
+networks, networks
+networks, physical layer
+networks, shennons
+networks, nyquist
+networks, guided media
+networks, unguided media
+networks, circuit switching
+networks, media switching
+networks, data link layer
+networks, hamming code
+networks, sliding window
+networks, aloha
+networks, csma
+networks, router
+networks, routing
+networks, distance vector routing
+networks, classful ip addressing
+networks, ip address
+networks, ip addressing
+networks, subnet
+networks, supernet
+os, terms
+os, operating system
+os, function of operating system
+os, Evolution of operating system
+os, types of operating system
+os, desirable characteristics of os
+os, features of os
+os, operating systems service
+os, utility program
+os, system call
+os, fork
+os, exec
+os, file systems
+os, file concept
+os, disk organization
+os, tape organization
+os, different modules of a file system
+os, disk space allocation
+os, contiguous space allocation
+os, linked space allocation
+os, indexed space allocation
+os, directory structures
+os, file protection
+os, system calls file management
+os, disk scheduling
+os, CPU scheduling
+os, process
+os, scheduling
+os, scheduler
+os, process state diagram
+os, scheduling algorithms
+os, system calls
+os, process management
+os, multiple processor scheduling
+os, threads
+os, input process
+os, output process
+os, asynchronous operation
+os, speed gap format conversion
+os, i/o interface
+os, program controlled i/o
+os, interrupt driven i/o
+os, concurrent i/o
+os, concurrent processes
+os, real concurrency
+os, virtual concurrency
+os, mutual exclusion
+os, synchronization
+os, inter process communication
+os, ipc
+os, critical section
+os, semaphore
+os, wait
+os, signal
+os, deadlock
+os, deadlock problem
+os, deadlock prevention
+os, deadlock avoidance
+os, deadlock recovery
+os, unix
+os, linux
+os, windows
