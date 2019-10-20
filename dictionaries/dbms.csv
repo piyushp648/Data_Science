@@ -1,71 +1,71 @@
-"terms"
-"database"
-"database system"
-"er model"
-"entity relationship"
-"information system"
-"data"
-"DBMS"
-"database management"
-"schema"
-"attributes"
-"entity relationship"
-"cardinality"
-"relational data"
-"tuples"
-"relations"
-"keys"
-"primary key"
-"candidate key"
-"foreign key"
-"super key"
-"relational algebra"
-"select"
-"project"
-"join"
-"relational calculus"
-"tuple calculus"
-"query language"
-"SQL"
-"queries"
-"nested queries"
-"PL/SQL"
-"normalization"
-"relation schemas"
-"functional dependencies"
-"normal form"
-"1NF"
-"2NF"
-"3NF"
-"BCNF"
-"loss less join"
-"query processing"
-"optimization of relational algebra"
-"transaction"
-"concurrency"
-"transaction properties" 
-"transaction states"
-"schedules"
-"serializability"
-"conflict serializability"
-"view serializability"
-"types of serializability"
-"serializability concurrency"
-"lock"
-"timestamp ordering protocol"
-"two-phase locking"
-"2PL"
-"strict Two-Phase Locking
-"deadlock"
-"wait-die"
-"wound-wait"
-"shadow paging"
-"secondary storage devices"
-"RAID"
-"heap file"
-"hashing techniques"
-"Indexing techniques"
-"primary indexing"
-"secondary indexing"
-"Bitmap Indices"
-"contemporary DBMS"
+terms
+database
+database system
+er model
+entity relationship
+information system
+data
+DBMS
+database management
+schema
+attributes
+entity relationship
+cardinality
+relational data
+tuples
+relations
+keys
+primary key
+candidate key
+foreign key
+super key
+relational algebra
+select
+project
+join
+relational calculus
+tuple calculus
+query language
+SQL
+queries
+nested queries
+PL/SQL
+normalization
+relation schemas
+functional dependencies
+normal form
+1NF
+2NF
+3NF
+BCNF
+loss less join
+query processing
+optimization of relational algebra
+transaction
+concurrency
+transaction properties 
+transaction states
+schedules
+serializability
+conflict serializability
+view serializability
+types of serializability
+serializability concurrency
+lock
+timestamp ordering protocol
+two-phase locking
+2PL
+strict Two-Phase Locking
+deadlock
+wait-die
+wound-wait
+shadow paging
+secondary storage devices
+RAID
+heap file
+hashing techniques
+Indexing techniques
+primary indexing
+secondary indexing
+Bitmap Indices
+contemporary DBMS
